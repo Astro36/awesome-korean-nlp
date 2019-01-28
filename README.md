@@ -5,6 +5,8 @@
 ## Index
 
 - Arirang
+- Daon
+- Goorm
 - HAM
 - HanNanum
 - khaiii
@@ -16,15 +18,18 @@
 - KoNLP
 - KoreanParser
 - Korean XTAG
+- Koshort
 - KoSpacing
 - KRISTAL-IRMS
 - KTS
 - MATCH
 - mecab-ko
 - nlp4kor
+- NLP HUB
 - Nori
 - Open Korean Text Processor
 - POSTAG/K
+- Pyeunjeon
 - Rhino
 - Rouzeta
 - Seunjeon
@@ -43,6 +48,21 @@
 - [Java](https://sourceforge.net/projects/lucenekorean/)
 - 이수명
 - [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+## Daon
+
+말뭉치 기반 한글 형태소 분석기
+
+- [Java](https://github.com/rasoio/daon), [Python 3](https://github.com/rasoio/daon-python)
+- 김상준
+
+## Goorm
+
+파이썬 워드 클라우드 라이브러리 한국어 wrapper
+
+- [Python 3](https://github.com/koshort/goorm)
+- Andreas Christian Mueller(컬럼비아 대학교), Nyanye(iam@nyanye.com)(뉴로핏)
+- [MIT License](https://github.com/koshort/goorm/blob/master/LICENSE)
 
 ## HAM
 
@@ -131,6 +151,14 @@ Korean XTAG is an on-going project to develop a wide-coverage grammar for Korean
 
 - [펜실베니아 대학교](http://www.upenn.edu/)
 
+## Koshort
+
+한국어 인터넷 트렌드 스트리밍과 처리를 위하여 만들어진 파이썬 패키지
+
+- [Python 3](https://github.com/koshort/koshort)
+- Nyanye(iam@nyanye.com)(뉴로핏)
+- [GPL 3.0](https://github.com/koshort/koshort/blob/master/LICENSE)
+
 ## KoSpacing
 
 Automatic Korean word spacing
@@ -185,6 +213,11 @@ mecab-ko는 은전한닢 프로젝트에서 사용하기 위한 MeCab의 fork �
 - 박혜웅
 - [MIT License](https://github.com/bage79/nlp4kor/blob/master/LICENSE.md)
 
+## NLP HUB
+
+- [Java](http://semanticweb.kaist.ac.kr/home/index.php/NLP_HUB)
+- [KAIST 시멘틱 웹 연구실](http://semanticweb.kaist.ac.kr/home/index.php/Home)
+
 ## Nori
 
 Nori Korean Morphological Analyzer
@@ -208,6 +241,14 @@ Korean Morphological Analyzer
 
 - [POSTECH 지능형 소프트웨어 연구실](http://nlp.postech.ac.kr/home/)
 - [Syllable patternbased unknown morpheme estimation for hybrid partofspeech tagging of Korean](http://nlp.postech.ac.kr/~project/DownLoad/cgi-bin/POSTAG/9908_cljournal_gblee.pdf), 이근배(POSTECH), 차정원(POSTECH), 이종혁(POSTECH)
+
+## Pyeunjeon
+
+pyeunjeon은 은전한닢 프로젝트와 mecab 기반의 한국어 형태소 분석기의 독립형 python 인터페이스입니다.
+
+- [Python 3](https://github.com/koshort/pyeunjeon)
+- Nyanye(iam@nyanye.com)(뉴로핏)
+- [GPL 3.0](https://github.com/koshort/pyeunjeon/blob/master/LICENSE)
 
 ## Rhino
 
