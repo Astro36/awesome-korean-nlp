@@ -2,7 +2,7 @@
 
 > 한국어 자연어처리 소프트웨어 목록
 
-## 목차
+## Index
 
 - Arirang
 - HAM
@@ -51,7 +51,7 @@
 한국어 형태소 분석을 기반으로 하여 자동색인 및 철자검사 기능까지 가능한 HAM(Hangul Analysis Module)은 자동색인에 매우 적합한 형태소 분석기를 이용하기 때문에 문서의 종류나 유형에 관계없이 문서에 나타난 keyword를 추출한다.
 
 - 강승식(국민대학교)
-- 사용기간 만료(2013년 12월 31일까지)
+- 사용기간 만료(2011년 12월 31일까지)
 
 ## HanNanum
 
@@ -129,7 +129,7 @@ A project to build a Korean syntactic parser
 
 Korean XTAG is an on-going project to develop a wide-coverage grammar for Korean using Feature-Based Lexicalized Tree Adjoining Grammar (LTAG) formalism.
 
-- [펜실베니아 대학](http://www.upenn.edu/)
+- [펜실베니아 대학교](http://www.upenn.edu/)
 
 ## KoSpacing
 
@@ -157,7 +157,7 @@ KRISTAL은 과학기술문헌 정보서비스를 목적으로 개발을 시작�
 KTS는 EUC-KR, 이성진코드 기반의 한글 형태소분석기로서 1995년에 만들어진 것이 2002년에 GPL2 라이센스로 정식 공개되었습니다.
 
 - [C, C++](https://wiki.kldp.org/wiki.php/KTS)
-- 이상호(KAIST), 서정연, 오영환
+- 서정연, 오영환, 이상호(KAIST)
 - [GPL 2.0](http://www.opensource.org/licenses/gpl-2.0.php)
 
 ## MATCH
@@ -175,9 +175,7 @@ mecab-ko는 은전한닢 프로젝트에서 사용하기 위한 MeCab의 fork �
 
 - [C, C++](https://bitbucket.org/eunjeon/mecab-ko/)
 - [은전한닢 프로젝트](http://eunjeon.blogspot.com/)
-- [BSD License](https://bitbucket.org/eunjeon/mecab-ko/src/908db8de3cb5f4931b4e3a7a5a3894daefb98c37/BSD?at=master&fileviewer=file-view-default)
-- [GPL 2.0](https://bitbucket.org/eunjeon/mecab-ko/src/908db8de3cb5f4931b4e3a7a5a3894daefb98c37/GPL?at=master&fileviewer=file-view-default)
-- [LGPL 2.1](https://bitbucket.org/eunjeon/mecab-ko/src/908db8de3cb5f4931b4e3a7a5a3894daefb98c37/LGPL?at=master&fileviewer=file-view-default)
+- [BSD License](https://bitbucket.org/eunjeon/mecab-ko/src/908db8de3cb5f4931b4e3a7a5a3894daefb98c37/BSD?at=master&fileviewer=file-view-default), [GPL 2.0](https://bitbucket.org/eunjeon/mecab-ko/src/908db8de3cb5f4931b4e3a7a5a3894daefb98c37/GPL?at=master&fileviewer=file-view-default), [LGPL 2.1](https://bitbucket.org/eunjeon/mecab-ko/src/908db8de3cb5f4931b4e3a7a5a3894daefb98c37/LGPL?at=master&fileviewer=file-view-default)
 
 ## nlp4kor
 
@@ -248,22 +246,21 @@ RHINO parses Korean words by morpheme and part-of-speech. The newly developed Dy
 Soyspacing은 한국어 띄어쓰기 문제를 해결하기 위한 휴리스틱 알고리즘을 제공합니다. Conditional Random Field와 비교하여 가벼운 모델 사이즈와 빠른 학습이 가능합니다.
 
 - [Python 3](https://github.com/lovit/soyspacing)
-- 김현중(서울대학교), 황성구(Scatter Lab), 신윤하(성균관대)
+- 김현중(서울대학교), 신윤하(성균관대학교), 황성구(Scatter Lab)
 - [GPL 3.0](https://github.com/lovit/soyspacing/blob/master/setup.py)
 
 ## SynKDP
 
 깜짝새: 통합형 한글 자료 처리기 [[미러]](https://wrightgongyoo.tistory.com/entry/%EB%A7%90%EB%AD%89%EC%B9%98-%EB%B6%84%EC%84%9D-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B9%9C%EC%A7%9D%EC%83%88-155-SynKDP)
 
-- 소강춘(전주대학교), 김진규(전주대학교), 박진양(전주대학교)
+- 김진규(전주대학교), 박진양(전주대학교), 소강춘(전주대학교)
 
 ## UMorpheme
 
 한국어 형태소 분석기 API (Mecab Wrapper)
 
 - [Python 2](https://pypi.org/project/UMorpheme/)
-- [은전한닢 프로젝트](http://eunjeon.blogspot.com/)
-- 김경훈(UNIST)
+- [은전한닢 프로젝트](http://eunjeon.blogspot.com/), 김경훈(UNIST)
 - [MIT License](https://opensource.org/licenses/MIT)
 
 ## Utagger
