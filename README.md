@@ -4,40 +4,93 @@
 
 ## Index
 
-- Arirang
-- Daon
-- Goorm
-- HAM
-- HanNanum
-- khaiii
-- Kiwi
-- kkma
-- K-LIWC
-- KoalaNLP
-- KOMORAN
-- KoNLP
-- KoreanParser
-- Korean XTAG
-- Koshort
-- KoSpacing
-- KRISTAL-IRMS
-- KTS
-- MATCH
-- mecab-ko
-- nlp4kor
-- NLP HUB
-- Nori
-- Open Korean Text Processor
-- POSTAG/K
-- Pyeunjeon
-- Rhino
-- Rouzeta
-- Seunjeon
-- soynlp
-- soyspacing
-- SynKDP(깜짝새)
-- UMorpheme
-- Utagger
+- [Arirang](#arirang)
+- [Daon](#daon)
+- [Goorm](#goorm)
+- [HAM](#ham)
+- [HanNanum](#hannanum)
+- [khaiii](#khaiii)
+- [Kiwi](#kiwi)
+- [kkma](#kkma)
+- [K-LIWC](#k-liwc)
+- [KoalaNLP](#koalanlp)
+- [KOMORAN](#komoran)
+- [KoNLP](#konlp)
+- [KoreanParser](#koreanparser)
+- [Korean XTAG](#korean-xtag)
+- [Koshort](#koshort)
+- [KoSpacing](#kospacing)
+- [KRISTAL-IRMS](#kristal-irms)
+- [KTS](#kts)
+- [MATCH](#match)
+- [mecab-ko](#mecab-ko)
+- [nlp4kor](#nlp4kor)
+- [NLP HUB](#nlp-hub)
+- [Nori](#nori)
+- [Open Korean Text Processor](#open-korean-text-processor)
+- [POSTAG/K](#postagk)
+- [Pyeunjeon](#pyeunjeon)
+- [Rhino](#rhino)
+- [Rouzeta](#rouzeta)
+- [Seunjeon](#seunjeon)
+- [soynlp](#soynlp)
+- [soyspacing](#soyspacing)
+- [SynKDP(깜짝새)](#synkdp)
+- [UMorpheme](#umorpheme)
+- [Utagger](#utagger)
+
+## Summary
+
+- C, C++
+  - Kiwi
+  - KTS
+  - MATCH
+  - mecab-ko
+  - Utagger
+- Java
+  - Arirang
+  - Daon
+  - HanNanum
+  - kkma
+  - KoalaNLP
+  - KOMORAN
+  - KoreanParser
+  - NLP HUB
+  - Nori
+  - Open Korean Text Processor
+  - Seunjeon
+- Kotlin
+  - KoalaNLP
+- Node.js
+  - KoalaNLP
+- Python
+  - Goorm
+  - Kiwi
+  - KoalaNLP
+  - Koshort
+  - KoSpacing
+  - nlp4kor
+  - Pyeunjeon
+  - soynlp
+  - soyspacing
+  - UMorpheme
+- R
+  - KoNLP
+  - KoSpacing
+  - Rhino
+- Scala
+  - KoalaNLP
+  - Open Korean Text Processor
+  - Seunjeon
+- Paper
+  - HAM
+  - K-LIWC
+  - Korean XTAG
+  - POSTAG/K
+- ETC
+  - KRISTAL-IRMS
+  - Rouzeta
+  - SynKDP(깜짝새)
 
 ---
 
@@ -232,7 +285,7 @@ Nori Korean Morphological Analyzer
 
 스칼라로 쓰여진 한국어 처리기입니다. 현재 텍스트 정규화와 형태소 분석, 스테밍을 지원하고 있습니다. 짧은 트윗은 물론이고 긴 글도 처리할 수 있습니다.
 
-- [Java, Scala](https://github.com/open-korean-text/open-korean-text)
+- [Java, Scala](https://github.com/open-korean-text/open-korean-text) (이외에도 다양한 래퍼가 존재합니다)
 - [Apache License 2.0](https://github.com/open-korean-text/open-korean-text/blob/master/LICENSE)
 
 ## POSTAG/K
